@@ -1,8 +1,6 @@
 
 #Set Up Client For MicroServices
-spring:
-   application:
-     name: default-config
+
 eureka:
   instance:
     prefer-ip-address: true
